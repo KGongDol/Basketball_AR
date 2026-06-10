@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 940f216b18e214008a686359697ee510
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Scripts/BasketballRingControl.cs
+  uploadId: 888430

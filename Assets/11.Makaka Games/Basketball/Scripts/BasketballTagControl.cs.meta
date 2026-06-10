@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b9c1f6d53c8fb4b81a669064e3c73f7a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Scripts/BasketballTagControl.cs
+  uploadId: 888430

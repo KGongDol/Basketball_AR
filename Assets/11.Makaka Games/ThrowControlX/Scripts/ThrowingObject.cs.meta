@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 455efe83087f454186c6f5aadca7644e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Scripts/ThrowingObject.cs
+  uploadId: 888430

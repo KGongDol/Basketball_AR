@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cae76b3760a9447438578f5981f0f801
+labels:
+- ThrowingObject
+timeCreated: 1523534018
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Prefabs/Throwing Objects/Big Scale/ThrowingShovel.prefab
+  uploadId: 888430

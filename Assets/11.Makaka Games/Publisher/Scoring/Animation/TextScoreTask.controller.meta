@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6d009d92bcca4664812c8dc57e9e1d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/Scoring/Animation/TextScoreTask.controller
+  uploadId: 888430

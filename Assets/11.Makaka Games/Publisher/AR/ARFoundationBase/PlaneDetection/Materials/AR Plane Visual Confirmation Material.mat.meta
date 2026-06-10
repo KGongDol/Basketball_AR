@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90ce36ee6eca342e4a0b84f0b56f6ef1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/PlaneDetection/Materials/AR
+    Plane Visual Confirmation Material.mat
+  uploadId: 888430

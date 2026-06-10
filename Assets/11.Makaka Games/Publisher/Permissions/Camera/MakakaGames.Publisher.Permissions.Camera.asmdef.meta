@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2c316cf74879421a83bf3206b96ad33
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/Permissions/Camera/MakakaGames.Publisher.Permissions.Camera.asmdef
+  uploadId: 888430

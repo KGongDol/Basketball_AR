@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d8b6fb255cea4edcabb9b5c156a2f52
+timeCreated: 1439802729
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/PhysicMaterials/Barrel.physicMaterial
+  uploadId: 888430

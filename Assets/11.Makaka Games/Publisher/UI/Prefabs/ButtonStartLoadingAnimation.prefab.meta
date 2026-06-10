@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b5b3ff6fbdce4cd7b93ad5746c1097e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/UI/Prefabs/ButtonStartLoadingAnimation.prefab
+  uploadId: 888430

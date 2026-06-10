@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2450ecd6ce6af4dfc9e0d424a4e8600c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/SensorCamera/Scenes/Demo_SensorCameraSettings.lighting
+  uploadId: 888430

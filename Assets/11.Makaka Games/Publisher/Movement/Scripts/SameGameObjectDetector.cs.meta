@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0f54fa9f1554400080fe980fad8f35f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/Movement/Scripts/SameGameObjectDetector.cs
+  uploadId: 888430

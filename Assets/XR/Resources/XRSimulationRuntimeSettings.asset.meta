@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec7d43acb125844809535ddc890624ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/XR/Resources/XRSimulationRuntimeSettings.asset
+  uploadId: 888430

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bbca8ddf48577491f80b9e641d86f939
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/UI/Prefabs/CanvasTextStatus.prefab
+  uploadId: 888430

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f40c3f97416f041f0a7f6e107a1b0f22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Scenes/Demo3_ThrowAndScore_ClickOrTap/LightingData.asset
+  uploadId: 888430

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ea7c36c907b24965a14128c768b048e
+labels:
+- ThrowingObject
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Prefabs/Throwing Objects/Big Scale/ThrowingBallFootball.prefab
+  uploadId: 888430

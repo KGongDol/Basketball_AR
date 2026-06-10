@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8446de0774cd73441b1def01e5360fcc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/UX/Onboarding/Scripts/ARUXReasonsManager.cs
+  uploadId: 888430

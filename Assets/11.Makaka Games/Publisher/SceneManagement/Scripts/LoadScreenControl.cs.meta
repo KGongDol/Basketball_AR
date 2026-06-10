@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 179c5bda532f4474a460ba895c1aeb1a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/SceneManagement/Scripts/LoadScreenControl.cs
+  uploadId: 888430

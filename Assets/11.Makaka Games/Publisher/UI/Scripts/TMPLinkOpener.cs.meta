@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 33006de9776f144849fd916ab7d7fd7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/UI/Scripts/TMPLinkOpener.cs
+  uploadId: 888430

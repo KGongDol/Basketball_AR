@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a1600eae604c404584cce8a920782af6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Scripts/BasketballGameControl.cs
+  uploadId: 888430

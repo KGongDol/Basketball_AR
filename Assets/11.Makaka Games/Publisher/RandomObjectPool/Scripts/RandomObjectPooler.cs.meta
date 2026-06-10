@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 674e1c87b6fcb4a719cf2ad932a049bb
+timeCreated: 1523019219
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/RandomObjectPool/Scripts/RandomObjectPooler.cs
+  uploadId: 888430

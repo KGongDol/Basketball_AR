@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85ad4fcb1133a4db6862b15594afd54c
+timeCreated: 1439802729
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/PhysicMaterials/Bucket1.physicMaterial
+  uploadId: 888430

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 140305ee963a94e1d984123d32c63369
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/PlaneDetection/Prefabs/AR
+    Point Cloud Debug Visualizer.prefab
+  uploadId: 888430

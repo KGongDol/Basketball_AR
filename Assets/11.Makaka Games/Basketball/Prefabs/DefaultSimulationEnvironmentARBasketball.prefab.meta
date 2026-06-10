@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9852e0075d55144a59989cbb4828970f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Prefabs/DefaultSimulationEnvironmentARBasketball.prefab
+  uploadId: 888430

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21ebd4fdc35e14b1b8d6e576351f5b22
+labels:
+- ThrowingObject
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Prefabs/Throwing Objects/Small Scale
+    - ThrowAndScore/ThrowingBallBasketballThrowAndScore.prefab
+  uploadId: 888430

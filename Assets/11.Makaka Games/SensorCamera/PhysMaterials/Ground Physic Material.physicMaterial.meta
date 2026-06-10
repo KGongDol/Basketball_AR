@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52682416734fc4f679aa8c64c5e33882
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/SensorCamera/PhysMaterials/Ground Physic Material.physicMaterial
+  uploadId: 888430

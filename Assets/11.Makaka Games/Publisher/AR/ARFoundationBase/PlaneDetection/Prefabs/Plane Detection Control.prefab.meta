@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60bb51b6e50c34585bdf916cf506ddf6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/PlaneDetection/Prefabs/Plane
+    Detection Control.prefab
+  uploadId: 888430

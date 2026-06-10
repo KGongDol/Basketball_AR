@@ -1,0 +1,24 @@
+{
+    "name": "MakakaGames.Publisher.Permissions.Camera",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d89f37c5db5404249864ceb285cafe8a",
+        "GUID:b107fd1956cb3e04985108f5ee29e115"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.yasirkula.nativecamera",
+            "expression": "1.5.0",
+            "define": "NATIVE_CAMERA_PLUGIN_EXISTS"
+        }
+    ],
+    "noEngineReferences": false
+}

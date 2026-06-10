@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a8f52a23df5a6af4dbc47d6c753a84ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/UX/Common/Scripts/LightEstimationControl.cs
+  uploadId: 888430

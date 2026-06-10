@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 702c5972eb7ad4f94af29abebbda58f2
+labels:
+- ThrowingObject
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Prefabs/ThrowingBallBasketballGame Variant
+    AR.prefab
+  uploadId: 888430

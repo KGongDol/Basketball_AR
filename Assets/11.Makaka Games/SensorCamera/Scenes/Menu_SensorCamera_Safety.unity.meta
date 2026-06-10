@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 976b4edeb793140159822527b96ad102
+timeCreated: 1521815528
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/SensorCamera/Scenes/Menu_SensorCamera_Safety.unity
+  uploadId: 888430

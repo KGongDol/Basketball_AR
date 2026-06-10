@@ -1,0 +1,68 @@
+{
+    "version": 1,
+    "name": "ARController_Actions",
+    "maps": [
+        {
+            "name": "ARTouchScreen",
+            "id": "9c30ce86-19ea-4a18-844a-5099b6fd04ca",
+            "actions": [
+                {
+                    "name": "AddObjectOnDetectedPlane",
+                    "type": "Value",
+                    "id": "887b4a07-8f22-4b39-b134-9af1ffa26013",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "97ce382a-a7cf-43aa-90f7-3f4554ec2f7a",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AddObjectOnDetectedPlane",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Mouse Left Click and Move",
+                    "id": "eb8f2e6a-4395-4dba-8dd1-6e0c49ca2370",
+                    "path": "OneModifier",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AddObjectOnDetectedPlane",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "modifier",
+                    "id": "b3ad25c2-d88e-40ec-88fd-4e996a97c2ab",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AddObjectOnDetectedPlane",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "binding",
+                    "id": "bc4de38f-9178-45ac-bef2-475e939e4e9c",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AddObjectOnDetectedPlane",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

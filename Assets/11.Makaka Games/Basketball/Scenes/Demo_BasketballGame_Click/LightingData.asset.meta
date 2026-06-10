@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0f3795725c8848ed9c5d2b75fd86ce8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Basketball/Scenes/Demo_BasketballGame_Click/LightingData.asset
+  uploadId: 888430

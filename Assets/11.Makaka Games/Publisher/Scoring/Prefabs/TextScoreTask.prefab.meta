@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db36c8b6b367742adacfac0ff7dbab9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/Scoring/Prefabs/TextScoreTask.prefab
+  uploadId: 888430

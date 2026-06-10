@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34f0ef0a03ecb42aa9831d1905072ac1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/Publisher/AR/ARFoundationBase/PlaneDetection/Prefabs/AR
+    Plane Visual Confirmation (Arrow).prefab
+  uploadId: 888430

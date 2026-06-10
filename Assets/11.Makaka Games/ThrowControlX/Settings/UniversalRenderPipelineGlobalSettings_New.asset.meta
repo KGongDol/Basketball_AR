@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56ff93cac718a4a1aa6d815c6d7f9925
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264310
+  packageName: FPS Basketball 3D and AR
+  packageVersion: 6.0
+  assetPath: Assets/Makaka Games/ThrowControlX/Settings/UniversalRenderPipelineGlobalSettings_New.asset
+  uploadId: 888430
