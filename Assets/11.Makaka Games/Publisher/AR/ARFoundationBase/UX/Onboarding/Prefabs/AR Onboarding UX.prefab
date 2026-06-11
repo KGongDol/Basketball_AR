@@ -67,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Look for more textures or details in the area.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
+  m_sharedMaterial: {fileID: -4365395109662405198, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -613,8 +613,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Tap to Place AR
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
+  m_sharedMaterial: {fileID: -4365395109662405198, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -253,8 +253,8 @@ MonoBehaviour:
 
     3. Confirm the plane to Place the Game.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
+  m_sharedMaterial: {fileID: -4365395109662405198, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -831,8 +831,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Floor Detection
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
+  m_sharedMaterial: {fileID: -4365395109662405198, guid: 85c5deeab804f8e43a1e710bb6a47deb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
