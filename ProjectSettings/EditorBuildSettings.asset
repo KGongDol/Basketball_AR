@@ -6,17 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/11.Makaka Games/Basketball/Scenes/Menu_BasketballGame.unity
-    guid: 45f4e6f22d8d34894af5cf4b9231a692
-  - enabled: 1
-    path: Assets/11.Makaka Games/Publisher/SceneManagement/Scenes/LoadScreen.unity
-    guid: 9ea0e271d27a4df6b952de065414d326
-  - enabled: 1
-    path: Assets/11.Makaka Games/Publisher/Permissions/Camera/Scenes/Permission_Camera.unity
-    guid: 3c084acff26384d8792611153ba5af61
-  - enabled: 1
-    path: Assets/11.Makaka Games/Basketball/Scenes/Demo_BasketballGame_Click.unity
-    guid: a62c2cdde6afe4d91b35e5366b4014c7
+    path: Assets/01.Scenes/BasketballGame.unity
+    guid: 625d32f527422d74eb713245848e1d86
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7c506c5f74cac454e960eae216b22d4f, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 71bb57b0b6539418fa9f0244d7acd432, type: 2}
