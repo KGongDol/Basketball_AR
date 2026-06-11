@@ -35,6 +35,11 @@ MonoBehaviour:
         - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-1997835124-0
         - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-1900513758-0
         - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-6116033152489128782-306814178
+        - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-445426164-0
+        - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-6207904923345624762-0
+        - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-687451402-0
+        - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-4491388694472241245-45102371
+        - globalObjectIdString: GlobalObjectId_V1-2-625d32f527422d74eb713245848e1d86-571813426-0
         values:
         - colorIndex: 8
           iconNameOrGuid: Canvas Icon
@@ -104,5 +109,27 @@ MonoBehaviour:
           iconNameOrGuid: Camera Icon
           isIconRecursive: 0
           isColorRecursive: 0
+        - colorIndex: 8
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 8
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 8
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 8
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
+        - colorIndex: 8
+          iconNameOrGuid: 
+          isIconRecursive: 0
+          isColorRecursive: 0
   bookmarks: []
-  bookmarkedScenePaths: []
+  bookmarkedScenePaths:
+  - Assets/01.Scenes/BasketballGame.unity
+  - Assets/Layer Lab/GUI Pro-MinimalGame/Theme_Dark/Scene/DemoScene_MinimalGame(Dark).unity

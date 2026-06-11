@@ -66,115 +66,103 @@ MonoBehaviour:
   - tracker:
       mostClicked:
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"BoothStartControl[0]"}'
-        count: 24
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/TextMission[0]"}'
+        count: 7
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]"}'
-        count: 10
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasArrowDirectional[0]/ArrowPivot[0]/ImageArrow[0]"}'
+        count: 5
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]"}'
+        count: 3
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]"}'
+        count: 3
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"BoothMission[0]"}'
+        count: 2
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasArrowDirectional[0]/ArrowPivot[0]"}'
+        count: 2
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]"}'
+        count: 2
+        gameObjects:
+        - {fileID: 0}
+      - paths:
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]/Bg[0]"}'
+        count: 2
         gameObjects:
         - {fileID: 0}
       - paths:
         - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasArrowDirectional[0]"}'
-        count: 8
+        count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasPopupTexts[0]"}'
-        count: 6
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"$[0]"}'
-        count: 5
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]"}'
-        count: 5
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"SensorCamera[0]"}'
-        count: 4
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasScoreBest[0]"}'
-        count: 4
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasMenu[0]/ButtonMenu[0]"}'
-        count: 4
-        gameObjects:
-        - {fileID: 0}
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/SafeZone[0]"}'
-        count: 2
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasMenu[0]"}'
+        count: 1
         gameObjects:
         - {fileID: 0}
       recentlyClicked:
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/SafeZone[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/Hoop (change
-          Z Pos to place the hoop)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/TextMission[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/PanelResult[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/ExplosionOnFadeIn[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]/Bg[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/ExplosionOnFadeOut[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]/LoadingAnimation[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/FailZones[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]/ImageOverlayOnComplete[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/Floor[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/Hoop (change
-          Z Pos to place the hoop)[0]/Pole[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]"}'
         count: 1
         gameObjects:
         - {fileID: 0}
@@ -182,31 +170,30 @@ MonoBehaviour:
       recentlyClickedContents: []
     sceneGUID: 625d32f527422d74eb713245848e1d86
     sceneName: BasketballGame
-    lastSaveTimePrint: 12:24 PM (June 11, 2026)
+    lastSaveTimePrint: 04:16 PM (June 11, 2026)
     gracePeriod: 3
     activeIndex: 0
     checkingToLoad: 0
-    assetsCollapsed: 1
+    assetsCollapsed: 0
     lockedAsset: 0
     maximizedAssetView: 0
-    showImportSettings: 1
+    showImportSettings: 0
     suggestedHeight: 0
-    userAssetViewSize: -1
+    userAssetViewSize: 0
     previewHeight: 0
     scrollPosition: {x: 0, y: 0}
     toolbarScrollPosition: {x: 0, y: 0}
     rawUserHeight: 0
-    lastValidTabWidth: 78
+    lastValidTabWidth: 135
     alreadyCalculatedHeight: 0
     lastKnownHeight: 0
     tabs:
-    - path: '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-        (just to set Pivot Point)[0]/SafeZone[0]"}'
+    - path: '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]"}'
       paths: []
-      tabWidth: 75
-      name: SafeZone
-      icon: {fileID: 148978298399363526, guid: 0000000000000000d000000000000000, type: 0}
-      shortName: SafeZone
+      tabWidth: 132
+      name: CanvasBoothMission
+      icon: {fileID: 6918890264710435130, guid: 0000000000000000d000000000000000, type: 0}
+      shortName: CanvasBoothMission
       filterString: 
       newTab: 0
       scrollPosition: 0
@@ -215,14 +202,14 @@ MonoBehaviour:
       runtimeFoldouts: 
       runtimeMultiComponents: []
       tabTextContent:
-        m_Text: SafeZone
+        m_Text: CanvasBoothMission
         m_Image: {fileID: 0}
         m_Tooltip: 
-        m_TextWithWhitespace: "SafeZone\u200B"
+        m_TextWithWhitespace: "CanvasBoothMission\u200B"
       multiEditMode: 0
       locked: 0
       hasPreview: 0
-      previewHeight: 150
+      previewHeight: 13
       debug: 0
       filtering: 0
       prefab: 0
@@ -265,73 +252,282 @@ MonoBehaviour:
         focusAfter: 0
         awaitingScroll: 0
         hidden: 0
-        componentName: transform
-        niceComponentName: transform
+        componentName: recttransform
+        niceComponentName: rect transform
+      - index: 0
+        component: {fileID: 0}
+        missingComponentID: -1
+        foldout: 1
+        focusAfter: 0
+        awaitingScroll: 0
+        hidden: 0
+        componentName: canvas
+        niceComponentName: canvas
+      - index: 0
+        component: {fileID: 0}
+        missingComponentID: -1
+        foldout: 1
+        focusAfter: 0
+        awaitingScroll: 0
+        hidden: 0
+        componentName: canvasscaler
+        niceComponentName: canvas scaler
+      - index: 0
+        component: {fileID: 0}
+        missingComponentID: -1
+        foldout: 1
+        focusAfter: 0
+        awaitingScroll: 0
+        hidden: 0
+        componentName: graphicraycaster
+        niceComponentName: graphic raycaster
       historyPaths:
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/SafeZone[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/Hoop (change
-          Z Pos to place the hoop)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/TextMission[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/PanelResult[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/ExplosionOnFadeIn[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasBoothMission[0]/ResourceBar_Coin[0]/Bg[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/ExplosionOnFadeOut[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]/LoadingAnimation[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/FailZones[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]/ButtonStartLoadingAnimation[0]/ImageOverlayOnComplete[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/Floor[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]/PanelStart[0]"}'
         prefab: 0
       - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"GameWorldParent[0]/GameWorld
-          (just to set Pivot Point)[0]/HoopPivot (don''t change pos)[0]/Hoop (change
-          Z Pos to place the hoop)[0]/Pole[0]"}'
-        prefab: 0
-      - paths:
-        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"AudioController[0]/Goal
-          - Clear[0]"}'
+        - '{"sceneGUID":"625d32f527422d74eb713245848e1d86","path":"CanvasesHUD[0]/CanvasStart[0]"}'
         prefab: 0
       owner: {fileID: 0}
     closedTabs: []
     playModeTransforms: []
     historyAssets:
     - assetGUIDs:
-      - b0057a51c0de4b00a1b2c3d4e5f60001
+      - 3cacebf6e81ab47219aca1d83af6baa7
+    - assetGUIDs:
+      - 596b4dd1e5692468eaed4b0b88f60323
+    - assetGUIDs:
+      - 09539a702cb894ae6b3d3248c654768c
     - assetGUIDs:
       - 85c5deeab804f8e43a1e710bb6a47deb
+    - assetGUIDs:
+      - 625d32f527422d74eb713245848e1d86
+    - assetGUIDs:
+      - b0057a51c0de4b00a1b2c3d4e5f60001
     - assetGUIDs:
       - f0c9378285616cc4e8d2df42ac56912d
     - assetGUIDs:
       - b1d6a4e54c39c8b458d0139e557a644f
     - assetGUIDs:
       - b1a043a4268648c488f678de31592700
-    targetObject: {fileID: 11500000, guid: b0057a51c0de4b00a1b2c3d4e5f60001, type: 3}
+    targetObject: {fileID: 2800000, guid: 3cacebf6e81ab47219aca1d83af6baa7, type: 3}
     targetObjects: []
-    lastSelectedAsset: Assets/02.Scripts/BoothStartControl.cs
+    lastSelectedAsset: Assets/Layer Lab/GUI Pro-MinimalGame/Theme_Dark/Sprites/HUD/ResourceBar_Bg.png
     lastClickedTab: -1
     previousTab: 1
-  tipsShown: 01000000000000000100000000000000000000000000000000000000010000000000000001000000000000000100000000000000000000000000000000000000010000000000000000000000010000000000000001000000000000000000000001000000000000000000000001000000000000000000000000000000000000000100000001000000010000000100000000000000000000000000000000000000000000000000000001000000010000000000000000000000
+  - tracker:
+      mostClicked:
+      - paths:
+        - 
+        count: 4
+        gameObjects: []
+      - paths:
+        - 
+        count: 2
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      recentlyClicked:
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths:
+        - 
+        count: 1
+        gameObjects: []
+      - paths: []
+        count: 1
+        gameObjects: []
+      - paths: []
+        count: 1
+        gameObjects: []
+      - paths: []
+        count: 1
+        gameObjects: []
+      - paths: []
+        count: 1
+        gameObjects: []
+      - paths: []
+        count: 1
+        gameObjects: []
+      mostClickedContents: []
+      recentlyClickedContents: []
+    sceneGUID: 596b4dd1e5692468eaed4b0b88f60323
+    sceneName: DemoScene_MinimalGame(Dark)
+    lastSaveTimePrint: 04:08 PM (June 11, 2026)
+    gracePeriod: 3
+    activeIndex: 0
+    checkingToLoad: 0
+    assetsCollapsed: 0
+    lockedAsset: 0
+    maximizedAssetView: 0
+    showImportSettings: 0
+    suggestedHeight: 0
+    userAssetViewSize: -1
+    previewHeight: 0
+    scrollPosition: {x: 0, y: 0}
+    toolbarScrollPosition: {x: 0, y: 0}
+    rawUserHeight: 0
+    lastValidTabWidth: 121
+    alreadyCalculatedHeight: 0
+    lastKnownHeight: 0
+    tabs:
+    - path: '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]/Panels[0]/Play_Type1[0]/ResourceBar_Group[0]/ResourceBar_Coin[0]"}'
+      paths: []
+      tabWidth: 118
+      name: ResourceBar_Coin
+      icon: {fileID: 7853449062886713960, guid: 0000000000000000d000000000000000, type: 0}
+      shortName: ResourceBar_Coin
+      filterString: 
+      newTab: 0
+      scrollPosition: 0
+      isSelected: 1
+      allCollapsed: 0
+      runtimeFoldouts: 
+      runtimeMultiComponents: []
+      tabTextContent:
+        m_Text: ResourceBar_Coin
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+        m_TextWithWhitespace: "ResourceBar_Coin\u200B"
+      multiEditMode: 0
+      locked: 0
+      hasPreview: 0
+      previewHeight: 13
+      debug: 0
+      filtering: 0
+      prefab: 0
+      multiFoldout: 1
+      target: {fileID: 0}
+      targets: []
+      linkedPrefabs: []
+      trackMultiTarget: {fileID: 0}
+      serializedTransform:
+        owner: {fileID: 0}
+        localPosition: {x: 0, y: 0, z: 0}
+        localRotation: {x: 0, y: 0, z: 0, w: 0}
+        localScale: {x: 0, y: 0, z: 0}
+        originalPosition: {x: 0, y: 0, z: 0}
+        originalRotation: {x: 0, y: 0, z: 0, w: 0}
+        originalLocalScale: {x: 0, y: 0, z: 0}
+        anchorMin: {x: 0, y: 0}
+        anchorMax: {x: 0, y: 0}
+        anchoredPosition: {x: 0, y: 0}
+        sizeDelta: {x: 0, y: 0}
+        pivot: {x: 0, y: 0}
+        originalAnchorMin: {x: 0, y: 0}
+        originalAnchorMax: {x: 0, y: 0}
+        originalAnchoredPosition: {x: 0, y: 0}
+        originalSizeDelta: {x: 0, y: 0}
+        originalPivot: {x: 0, y: 0}
+        isRectTransform: 0
+        appliedTransform: 0
+        undidTransform: 0
+        autoSave: 0
+      serializedTransforms: []
+      savePlayModeTransform: 0
+      index: 0
+      historyPosition: 0
+      componentMaps:
+      - index: 0
+        component: {fileID: 0}
+        missingComponentID: -1
+        foldout: 1
+        focusAfter: 0
+        awaitingScroll: 0
+        hidden: 0
+        componentName: recttransform
+        niceComponentName: rect transform
+      historyPaths:
+      - paths:
+        - '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]/Panels[0]/Play_Type1[0]/ResourceBar_Group[0]/ResourceBar_Coin[0]"}'
+        prefab: 0
+      - paths:
+        - '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]/Panels[0]/Play_Type1[0]/ResourceBar_Group[0]"}'
+        prefab: 0
+      - paths:
+        - '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]/Panels[0]/Play_Type1[0]/ResourceBar_Group[0]/ResourceBar_Coin[0]/Bg[0]"}'
+        prefab: 0
+      - paths:
+        - '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]/Panels[0]/Play_Type1[0]/ResourceBar_Group[0]/ResourceBar_Coin[0]/Icon[0]"}'
+        prefab: 0
+      - paths:
+        - '{"sceneGUID":"596b4dd1e5692468eaed4b0b88f60323","path":"Canvas[0]/PanelGroup[0]"}'
+        prefab: 0
+      owner: {fileID: 0}
+    closedTabs: []
+    playModeTransforms: []
+    historyAssets:
+    - assetGUIDs:
+      - 3cacebf6e81ab47219aca1d83af6baa7
+    - assetGUIDs:
+      - 596b4dd1e5692468eaed4b0b88f60323
+    - assetGUIDs:
+      - 09539a702cb894ae6b3d3248c654768c
+    - assetGUIDs:
+      - 85c5deeab804f8e43a1e710bb6a47deb
+    - assetGUIDs:
+      - 625d32f527422d74eb713245848e1d86
+    - assetGUIDs:
+      - b0057a51c0de4b00a1b2c3d4e5f60001
+    - assetGUIDs:
+      - f0c9378285616cc4e8d2df42ac56912d
+    - assetGUIDs:
+      - b1d6a4e54c39c8b458d0139e557a644f
+    - assetGUIDs:
+      - b1a043a4268648c488f678de31592700
+    targetObject: {fileID: 2800000, guid: 3cacebf6e81ab47219aca1d83af6baa7, type: 3}
+    targetObjects: []
+    lastSelectedAsset: Assets/Layer Lab/GUI Pro-MinimalGame/Theme_Dark/Sprites/HUD/ResourceBar_Bg.png
+    lastClickedTab: -1
+    previousTab: 1
+  tipsShown: 01000000010000000100000001000000010000000100000001000000010000000000000001000000010000000100000000000000000000000100000000000000010000000100000001000000010000000100000001000000010000000000000001000000010000000100000001000000010000000100000000000000000000000100000001000000010000000100000001000000010000000000000001000000000000000000000001000000010000000100000000000000
   playModeStartScene: {}
   enteringPlayMode: 0
